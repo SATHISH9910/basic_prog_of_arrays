@@ -9,7 +9,7 @@
 
 arr=[24,5,3345,2345,344]
 
-largest= arr[0]    # assume largest no is 20
+largest= arr[0]    # assume largest no is 24
 
 for num in arr:
     if  num>largest:
